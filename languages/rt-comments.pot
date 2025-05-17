@@ -1,0 +1,90 @@
+# Copyright (C) 2025 Websolt
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Real-time User Comment Display 1.0\n"
+"Report-Msgid-Bugs-To: https://websolt.com\n"
+"POT-Creation-Date: 2025-05-03 12:34+0600\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: WP-CLI 2.7.1\n"
+
+#: match-predictions.php:28
+msgid "Direct access to this file is not allowed."
+msgstr ""
+
+#: match-predictions.php:29
+msgid "Security Error"
+msgstr ""
+
+#: match-predictions.php:65
+msgid "Security check failed"
+msgstr ""
+
+#: match-predictions.php:69
+msgid "Security check failed. Please refresh the page and try again."
+msgstr ""
+
+#: match-predictions.php:73
+msgid "Name and comment are required fields."
+msgstr ""
+
+#: match-predictions.php:80
+msgid "Name is too long. Maximum 100 characters allowed."
+msgstr ""
+
+#: match-predictions.php:83
+msgid "Comment is too long. Maximum 1000 characters allowed."
+msgstr ""
+
+#: match-predictions.php:109
+msgid "Recent Comments"
+msgstr ""
+
+#: match-predictions.php:124
+msgid "Name:"
+msgstr ""
+
+#: match-predictions.php:128
+msgid "Comment:"
+msgstr ""
+
+#: match-predictions.php:131
+msgid "Submit Comment"
+msgstr ""
+
+#: match-predictions.php:231
+msgid "All predictions have been reset!"
+msgstr ""
+
+#: match-predictions.php:256
+msgid "Comments Management"
+msgstr ""
+
+#: match-predictions.php:259
+msgid "Comment Management Actions"
+msgstr ""
+
+#: match-predictions.php:266
+msgid "Export All Comments to CSV"
+msgstr ""
+
+#: match-predictions.php:275
+msgid "Reset All Comments"
+msgstr ""
+
+#: match-predictions.php:285
+msgid "Name"
+msgstr ""
+
+#: match-predictions.php:286
+msgid "Comment"
+msgstr ""
+
+#: match-predictions.php:287
+msgid "Created At"
+msgstr ""
