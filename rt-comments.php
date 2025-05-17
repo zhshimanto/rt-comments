@@ -155,8 +155,8 @@ function ws_rt_comments_shortcode() {
                     $timestamp = new DateTime($prediction->created_at, new DateTimeZone('UTC'));
                     $timestamp->setTimezone(new DateTimeZone('Asia/Bangkok')); // Convert to Thailand timezone
                     
-                    // Format as 12-hour clock without seconds
-                    $comment_time = $timestamp->format('g:i A'); // e.g., 8:30 PM
+                    // Format as date and time
+                    $comment_time = $timestamp->format('d M Y, g:i A'); // e.g., 17 May 2025, 8:30 PM
                 } catch (Exception $e) {
                     // If there's an error, use a placeholder
                     $comment_time = 'Time unavailable';
